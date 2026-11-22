@@ -10,7 +10,7 @@ Not recorded (repository existed before OpenCS tracking).
 
 ## Contributors to this folder
 
-- Telegram @lufuno78 · Files: CHALLENGES/CHALLENGE-4-SUBMISSIONS/README.md · [latest commit](https://github.com/OpenCS-Community/campus-management-system/commit/36d98cb81b0cd08888f9c897172461727033d780)
+- Telegram @lufuno78 · Files: CHALLENGES/CHALLENGE-4-SUBMISSIONS/README.md · [latest commit](https://github.com/OpenCS-Community/campus-management-system/commit/4ddc81dbf20bc7a74a59678110f9852de5462188)
 
 ---
 Maintained automatically by OpenCS Community.
